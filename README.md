@@ -5,4 +5,4 @@
 its just a **experiment** i am just trying HAHA!!
 ![home](<Screenshot from 2026-10-01 22-12-10.png>)
 this is the home screen
-![quiz](<Screenshot from 2026-10-01 22-12-29.png>
+![quiz](<Screenshot from 2026-10-01 22-12-29.png>)
